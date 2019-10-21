@@ -43,7 +43,7 @@ csc-utils==0.6.7
 cssselect==0.9.1
 decorator==4.0.2
 dominate==2.1.12
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.0.4
 html5lib==0.9999999
 idna==2.0
