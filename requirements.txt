@@ -81,7 +81,7 @@ sqlparse==0.1.16
 supervisor==3.2.3
 tinycss==0.3
 uWSGI==2.0.11.2
-urllib3==1.12
+urllib3==1.26.5
 w3lib==1.12.0
 wsgiref==0.1.2
 zope.interface==4.1.2
