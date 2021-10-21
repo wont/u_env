@@ -1,4 +1,4 @@
-Babel==2.3.4
+Babel==2.9.1
 CairoSVG==1.0.19
 Divisi2==2.2.5
 Fabric==1.10.2
