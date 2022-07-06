@@ -50,7 +50,7 @@ idna==2.0
 ipaddress==1.0.14
 itsdangerous==0.24
 kombu==3.0.30
-lxml==3.4.4
+lxml==4.9.1
 meld3==1.0.2
 migrate==0.3.7
 mongoengine==0.10.5
